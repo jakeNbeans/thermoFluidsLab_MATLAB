@@ -63,7 +63,5 @@ set(gcf, 'Color', 'w'); % Set figure background to white
 figure(3)
 plot(t,h_nom)
 
-% ADD UNCERTAINTY
-% Need a graph for every speed and every uncertuncertainty bounds
-% Find the h_values with high bounds and low bounds of uncertainty
+
 
